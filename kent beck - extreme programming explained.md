@@ -17,3 +17,7 @@
 - Every piece of design in the system must be able to justify its existence (...) If you believe that the future is uncertain, and you believe that you can cheaply change your mind, then putting in functionality on speculation is crazy. Put in what you need when you need it. p.57
 
 - Any program feature without an automated test simply doesn't exist. Programmers write unit tests so that their confidence in the operation of the program can become part of the program itself.
+
+- Sometimes you just want to find out if something is possible. You go explore for half an hour. Yes, it is possible. Now you throw away your code and start over with tests. p.58
+
+- When the system requires that you duplicate code, it is asking for refactoring. p.58
