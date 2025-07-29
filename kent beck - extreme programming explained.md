@@ -14,3 +14,6 @@
 
 - Software development is always an evolving dialog between the possible and the desirable. The nature of the dialog is that it changes both what is seen to be possible and what is seen to be desirable. The nature of the dialog is that it changes both what is seen to be possible and what is seen to be desirable. p.55
 
+- Every piece of design in the system must be able to justify its existence (...) If you believe that the future is uncertain, and you believe that you can cheaply change your mind, then putting in functionality on speculation is crazy. Put in what you need when you need it. p.57
+
+- Any program feature without an automated test simply doesn't exist. Programmers write unit tests so that their confidence in the operation of the program can become part of the program itself.
