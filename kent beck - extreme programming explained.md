@@ -21,3 +21,7 @@
 - Sometimes you just want to find out if something is possible. You go explore for half an hour. Yes, it is possible. Now you throw away your code and start over with tests. p.58
 
 - When the system requires that you duplicate code, it is asking for refactoring. p.58
+
+- Anybody who sees an opportunity to add value to any portion of the code is required to do so at any time. p.59
+
+- Overtime is a symptom of a serious problem on the project. (...) If you come in Monday and say, "To meet our goals, we'll have to work late again," then you already have a problem that can't be solved by working more hours. p.60
