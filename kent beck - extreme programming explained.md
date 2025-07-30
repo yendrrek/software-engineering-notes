@@ -35,3 +35,9 @@
 - (...) planning is always emotional. p.75
 
 - (...) the manager must search carefully to discover if there was something they should have been aware of or done earlier to have avoided the problem entirely. The time for intervention is not the time for donning white armor and leaping on a charger. Rather, it is a time to come to the team and say, "I don't know how I let it get like this, but now I have to do XXX." Humility is the rule of the day for an intervention. p.75
+
+- If you don't have a reasonable place to work, your project won't be successful. The difference between a good space for the team and a bad space for the team is immediate and dramatic. (...) It was a watershed moment in my development as a consultant when I was asked to review the object-oriented design for a project. (...) I was brought in because of my knowledge of Smalltalk and objects, and the most valuable suggestion I had was that they should rearrange the furniture. p.78
+
+- Taking control of the physical environment sends a powerful message to the team. (...) Taking control over their physical environment is the first step toward taking control of how they work overall. p.80
+
+- (...) a customer is as much a part of an XP team as a programmer. In particular, for best results they sit with the rest of the team and are available full-time to answer questions. p.83
