@@ -25,3 +25,5 @@
 - Anybody who sees an opportunity to add value to any portion of the code is required to do so at any time. p.59
 
 - Overtime is a symptom of a serious problem on the project. (...) If you come in Monday and say, "To meet our goals, we'll have to work late again," then you already have a problem that can't be solved by working more hours. p.60
+
+- The XP manager's most sensitive barometer of the need for change is awareness of his own feeling, physical and emotional. If your stomach knots when you get in the car in the morning, something is wrong with your project and it's your job to effect the change.
