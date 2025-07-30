@@ -14,6 +14,8 @@
 
 - Software development is always an evolving dialog between the possible and the desirable. The nature of the dialog is that it changes both what is seen to be possible and what is seen to be desirable. The nature of the dialog is that it changes both what is seen to be possible and what is seen to be desirable. p.55
 
+- The team needs to fit the culture in which it will operate, but you should write software well rather than preserve the irrationality of an enclosing culture.
+
 - Every piece of design in the system must be able to justify its existence (...) If you believe that the future is uncertain, and you believe that you can cheaply change your mind, then putting in functionality on speculation is crazy. Put in what you need when you need it. p.57
 
 - Any program feature without an automated test simply doesn't exist. Programmers write unit tests so that their confidence in the operation of the program can become part of the program itself.
@@ -27,3 +29,9 @@
 - Overtime is a symptom of a serious problem on the project. (...) If you come in Monday and say, "To meet our goals, we'll have to work late again," then you already have a problem that can't be solved by working more hours. p.60
 
 - The XP manager's most sensitive barometer of the need for change is awareness of his own feeling, physical and emotional. If your stomach knots when you get in the car in the morning, something is wrong with your project and it's your job to effect the change.
+
+- The phrases "lead programmer" and "system architect" conjure up visions of isolated geniuses making the important decisions on the project. The coach is just the opposite. The measure of a coach is how few technical decisions he or she makes: The job is to get everybody else making good decisions. p.73
+
+- (...) planning is always emotional. p.75
+
+- (...) the manager must search carefully to discover if there was something they should have been aware of or done earlier to have avoided the problem entirely. The time for intervention is not the time for donning white armor and leaping on a charger. Rather, it is a time to come to the team and say, "I don't know how I let it get like this, but now I have to do XXX." Humility is the rule of the day for an intervention. p.75
