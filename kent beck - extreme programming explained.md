@@ -41,3 +41,5 @@
 - Taking control of the physical environment sends a powerful message to the team. (...) Taking control over their physical environment is the first step toward taking control of how they work overall. p.80
 
 - (...) a customer is as much a part of an XP team as a programmer. In particular, for best results they sit with the rest of the team and are available full-time to answer questions. p.83
+
+- Responsibility can ony be accepted, not given. (...) The manager can't go to the team and say, "Here's the pile of stuff we have to do and here's how long it will take." The project manager has to ask the team to take responsibility for doing the work. And then listen to the answer.
