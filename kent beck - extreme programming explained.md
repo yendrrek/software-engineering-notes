@@ -43,3 +43,7 @@
 - (...) a customer is as much a part of an XP team as a programmer. In particular, for best results they sit with the rest of the team and are available full-time to answer questions. p.83
 
 - Responsibility can ony be accepted, not given. (...) The manager can't go to the team and say, "Here's the pile of stuff we have to do and here's how long it will take." The project manager has to ask the team to take responsibility for doing the work. And then listen to the answer.
+
+- Collective ownership is this seemingly crazy idea that anyone can change any piece of code in the system at any time. Without the tests, you'd simply be dead trying to do this. (...) One of the effects of collective ownership is that complex code does not live very long.
+
+- The design strategy in XP is to always have the simplest design that runs the current test suite.
