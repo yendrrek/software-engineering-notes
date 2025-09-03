@@ -49,3 +49,7 @@
 - The design strategy in XP is to always have the simplest design that runs the current test suite. p.103
 
 - A day without refactoring is like a day without sunshine. p.110
+
+- It's hard to do simple things. It seems crazy, but sometimes it is easier to do something more complicated than to do something simple. This is particularly true when you have been successful doing the complicated things in the past. Learning to see the world in the simplest possible terms is a skill and a challenge. The challenge is that you may have to change your value system. Instead of being impressed when someone (like you, for instance) gets something complicated to work, you have to learn to be dissatisfied with complexity, not to rest until you can't imagine anything simpler working. p.152
+
+- All methodologies are based on fear. You try to set up habits that prevent your fears from becoming reality. p.165
