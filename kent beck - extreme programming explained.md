@@ -53,3 +53,5 @@
 - It's hard to do simple things. It seems crazy, but sometimes it is easier to do something more complicated than to do something simple. This is particularly true when you have been successful doing the complicated things in the past. Learning to see the world in the simplest possible terms is a skill and a challenge. The challenge is that you may have to change your value system. Instead of being impressed when someone (like you, for instance) gets something complicated to work, you have to learn to be dissatisfied with complexity, not to rest until you can't imagine anything simpler working. p.152
 
 - All methodologies are based on fear. You try to set up habits that prevent your fears from becoming reality. p.165
+
+- (...) by preparing for every eventuality we can think of, we leave ourselves vulnerable to the eventualities we can't imagine. (...) The team can be perfectly prepared at any moment to go in whatever direction the business or the system demands. By giving up explicit preparation for change, paradoxically they become entirely prepared for any change. They expect nothing. They can no longer be surprised. p.166
