@@ -5,3 +5,5 @@
 - Unacknowledged fear is the source of all software project failures. If these fears are not put on the table and dealt with , then developers and customers each try to protect themselves by building walls. p.8
 
 - (...) we are not trying to hit a target. Instead, we are trying to maximize the benefit of a process. p.12
+
+- When you are overloaded, don't think of it as not having enough time; think of it as having too much to do. (...) when you don't have enough time you are out of luck. You can't make more time. Not having enough time is a position of hopelessness. (...) Having too much to do breeds hope. p.25,26
